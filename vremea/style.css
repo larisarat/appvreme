@@ -1,0 +1,29 @@
+body {
+    background-image: url(sunset.jpg);
+}
+ #city {
+    width: 40%;
+    border: none;
+    border-bottom: 1px #ccc solid;
+    background: rgba(230, 201, 226, 0.6);
+ }
+ 
+
+ .table {
+    background: rgba(0, 0, 0, 0.3);
+ }
+
+ #currentConditions,.mb-4 ,label, #forecast {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ th , td {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ #searchCity {
+    background-color: blueviolet;
+    border: none;
+ }
+
